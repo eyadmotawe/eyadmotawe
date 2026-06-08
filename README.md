@@ -4,25 +4,26 @@ Computer Engineering Student at Alexandria University
 I am a software engineering student who loves solving problems and building clean apps. I work on everything from writing fast code for software to designing how hardware works inside a computer.
 
 ⭐ What I Do Best
+
 Fast Problem Solving: I solve hard coding puzzles using C++. This keeps my logic sharp and helps me write highly efficient software.
 
 Full-Stack Development: I build web applications and browser tools using modern web frameworks like React.
 
-Hardware & Systems: I understand how computers work under the hood, from writing code that talks to hardware to processing digital signals.
+Hardware & Systems: I understand how computers work under the hood.
 
 🛠️ Skills & Tools
-Languages: C++, JavaScript, Java, MATLAB, VHDL, Assembly
+Languages: C++, JavaScript, Java, Python
 
 Web Development: React.js, APIs
 
-Other Tools: Git, GitHub, Python
+Other Tools: Git, GitHub
 
 
 
 📬 Let's Connect!
 Email: eyadmotawe@gmail.com
 
-LinkedIn: eyadmotawea
+LinkedIn: in/eyad-motawea-a7266121a
 
 
 
