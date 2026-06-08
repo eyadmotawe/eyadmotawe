@@ -25,7 +25,7 @@ Other Tools: Git, GitHub
 
 Email: eyadmotawe@gmail.com
 
-LinkedIn: in/eyad-motawea-a7266121a
+LinkedIn: [in/eyad-motawea-a7266121a](https://www.linkedin.com/in/eyad-motawea-a7266121a/)
 
 
 
