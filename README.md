@@ -12,6 +12,7 @@ Full-Stack Development: I build web applications and browser tools using modern 
 Hardware & Systems: I understand how computers work under the hood.
 
 🛠️ Skills & Tools
+
 Languages: C++, JavaScript, Java, Python
 
 Web Development: React.js, APIs
@@ -21,6 +22,7 @@ Other Tools: Git, GitHub
 
 
 📬 Let's Connect!
+
 Email: eyadmotawe@gmail.com
 
 LinkedIn: in/eyad-motawea-a7266121a
